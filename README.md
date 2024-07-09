@@ -29,5 +29,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jetbrains Rider](https://img.shields.io/badge/-Jetbrains_Rider-333333?style=flat&logo=rider)&nbsp;
 
+### 🤝🏻 Connect with Me
+
+<a href="https://www.linkedin.com/in/anish-sharma-933266221/"><img src="https://img.shields.io/badge/Anish%20Sharma-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:anisharma2103@gmail.com"><img src="https://img.shields.io/badge/-anisharma2103@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 ### ⚙️ GitHub Analytics
-[![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishsharma21)](https://github.com/anishsharma21/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anishsharma21&theme=tokyonight)
