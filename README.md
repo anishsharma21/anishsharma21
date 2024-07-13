@@ -9,6 +9,7 @@
 
 ### 🛠 Tech Stack
 
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![.NET](https://img.shields.io/badge/-C%23_.NET-333333)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;\
