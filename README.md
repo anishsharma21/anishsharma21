@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 About Me
 - 👀 I like to explore new technologies, dive deep into computer science concepts, and build cool things! 💡
-- 🌱 I'm currently on my computer science and software development journey - beginning with digital logic and working my way up to application programming. I am exploring circuits and the microarchitecture of computer (first principles) while also developing web applications 🖥
-- 🎓 I'm currently completing my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney. I've completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada.
+- 🌱 I'm currently on my computer science and software development journey - beginning with digital logic and working my way up to application programming. I am exploring circuits and the microarchitecture of computers (learning from first principles) while also developing web applications 🖥
+- 🎓 I'm currently completing my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney. I've completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Associate Backend Developer, working in C# and .NET Web API development!
 - 📫 Email me at anisharma2103@gmail.com if you're interested in collaborating or discussing cool topics!
 
 ### 🛠 Tech Stack
