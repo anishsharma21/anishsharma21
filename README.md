@@ -29,6 +29,7 @@
 ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebooks-333333?style=flat&logo=jupyter)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jetbrains Rider](https://img.shields.io/badge/-Jetbrains_Rider-333333?style=flat&logo=rider)&nbsp;
+![Neovim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)&nbsp;
 
 ### 🤝🏻 Connect with Me
 
