@@ -8,10 +8,10 @@
 
 ### 🛠 Tech Stack
 
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)&nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![.NET](https://img.shields.io/badge/-C%23_.NET-333333)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;\
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
@@ -29,7 +29,9 @@
 ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebooks-333333?style=flat&logo=jupyter)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jetbrains Rider](https://img.shields.io/badge/-Jetbrains_Rider-333333?style=flat&logo=rider)&nbsp;
-![Neovim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)&nbsp;
+![Neovim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)&nbsp;\
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
 ### 🤝🏻 Connect with Me
 
