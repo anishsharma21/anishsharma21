@@ -30,8 +30,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jetbrains Rider](https://img.shields.io/badge/-Jetbrains_Rider-333333?style=flat&logo=rider)&nbsp;
 ![Neovim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)&nbsp;\
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
 ### 🤝🏻 Connect with Me
 
