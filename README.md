@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 - 🎓 I'm currently completing my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney. I've completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Associate Backend Developer, working in C# and .NET Web API development!
 - 🛠️ Current project: Trying to implement a [Memory Allocator/Deallocator](https://github.com/anishsharma21/EarlyLangs/blob/main/MIPS_asm/malloc_free.s) in MIPS assembly
-- 🌱 Learning path: returning to first principles - covering Digital Logic --> Microarchitecture + ISA --> Assembly --> C
+- 🌱 Learning path: returning to first principles by covering Digital Logic --> Microarchitecture + ISA --> Assembly --> C
 - 📫 Email me at anisharma2103@gmail.com if you're interested in collaborating or discussing cool topics!
 
 ### 🛠 Tech Stack
