@@ -6,30 +6,34 @@
 - 🌱 Learning path: returning to first principles by covering Digital Logic --> Microarchitecture + ISA --> Assembly --> C
 - 📫 Email me at anisharma2103@gmail.com if you're interested in collaborating or discussing cool topics!
 
-### 🛠 Tech Stack
+### 🛠 Technologies
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)&nbsp;
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;\
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)\
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)\
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)\
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)&nbsp;
-![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=databricks)&nbsp;
 ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebooks-333333?style=flat&logo=jupyter)&nbsp;\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jetbrains Rider](https://img.shields.io/badge/-Jetbrains_Rider-333333?style=flat&logo=rider)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)&nbsp;
+[![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+### 📊 Experience (updated 17/10/24)
+
+| Language    | Experience | Lines of Code (LOC) |
+|-------------|------------|---------------------|
+| C#          | 1 year     | ~2000               |
+| Python      | 2 years    | ~3000               |
+| JavaScript  | 1 year     | ~5000               |
+| TypeScript  | 3 months   | ~1000               |
+| C           | 1 month    | ~1000               |
+| ASM (MIPS)  | 2 months   | ~4000               |
 
 ### 🤝🏻 Connect with Me
 
