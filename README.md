@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 - 🎓 I'm currently completing my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney. I've completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Associate Backend Developer, working in C# and .NET Web API development!
-- 🏗️ Current work in C programming - learning the basics, then having another go at the [Memory Manager](https://github.com/anishsharma21/C-Programming/blob/main/mini-projects/memory-manager.c) but with C this time round
+- 🏗️ Current work in Go programming - learning the language and working on small projects
 - 🛠️ Recent major project: Trying to implement a [Memory Manager](https://github.com/anishsharma21/Assembly-Projects/blob/main/MIPS_asm%20(main)/malloc_free.s) in MIPS assembly
 - 🌱 Learning path: returning to first principles by covering Digital Logic --> Microarchitecture + ISA --> Assembly --> C
 - 📫 Email me at anisharma2103@gmail.com if you're interested in collaborating or discussing cool topics!
@@ -29,10 +29,11 @@
 
 | Language    | Experience | Lines of Code (LOC) |
 |-------------|------------|---------------------|
-| C#          | 1 year     | ~2000               |
+| C#          | 1 year     | ~2500               |
+| TypeScript  | 4 months   | ~2000               |
+| Go          | 1 month    | ~1000               |
 | Python      | 2 years    | ~3000               |
 | JavaScript  | 1 year     | ~5000               |
-| TypeScript  | 3 months   | ~1000               |
 | C           | 2 months   | ~2500               |
 | ASM (MIPS)  | 2 months   | ~4000               |
 
