@@ -28,7 +28,7 @@
 
 <!-- https://github.com/inttter/md-badges -->
 
-### 📊 Experience (updated 17/10/24)
+### 📊 Experience (updated 17/11/24)
 
 | Language    | Experience | Lines of Code (LOC) |
 |-------------|------------|---------------------|
