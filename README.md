@@ -34,8 +34,8 @@
 |-------------|------------|---------------------|
 | C#          | 1 year     | ~2500               |
 | TypeScript  | 4 months   | ~2000               |
-| Go          | 1 month    | ~1000               |
-| Python      | 2 years    | ~3000               |
+| Go          | 1 month    | ~1500               |
+| Python      | 2 years    | ~5000               |
 | JavaScript  | 1 year     | ~5000               |
 | C           | 2 months   | ~2500               |
 | ASM (MIPS)  | 2 months   | ~4000               |
