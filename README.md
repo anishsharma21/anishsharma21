@@ -28,13 +28,13 @@
 
 <!-- https://github.com/inttter/md-badges -->
 
-### 📊 Experience (updated 17/11/24)
+### 📊 Experience (updated 23/11/24)
 
 | Language    | Experience | Lines of Code (LOC) |
 |-------------|------------|---------------------|
-| C#          | 1 year     | ~2500               |
+| C#          | 1 year     | ~3000               |
 | TypeScript  | 6 months   | ~2000               |
-| Go          | 1 month    | ~1500               |
+| Go          | 1 month    | ~2500               |
 | Python      | 4 years    | ~7500               |
 | JavaScript  | 2 years    | ~5000               |
 | C           | 2 months   | ~2500               |
