@@ -1,10 +1,10 @@
 ## 👋 Hey there! I'm Anish
 
 ### 👨🏻‍💻 About Me
-- 🎓 I'm currently completing my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney. I've completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Associate Backend Developer, working in C# and .NET Web API development!
-- 🏗️ Current work in Go programming - learning the language and working on small projects
-- 🛠️ Recent major project: Trying to implement a [Memory Manager](https://github.com/anishsharma21/Assembly-Projects/blob/main/MIPS_asm%20(main)/malloc_free.s) in MIPS assembly
-- 🌱 Learning path: returning to first principles by covering Digital Logic --> Microarchitecture + ISA --> Assembly --> C
+- 🎓 I'm currently completing my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney. I've completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Associate Backend Developer, working in C# and .NET Web API development
+- 🏗️ Current work in Go programming - learning the language, working on small projects with the end goal => network programming + concurrency
+- 🛠️ Recent major project: Implementing a [Memory Manager](https://github.com/anishsharma21/Assembly-Projects/blob/main/MIPS_asm%20(main)/malloc_free.s) in MIPS assembly
+- 🌱 Learning path: returning to first principles by covering Digital Logic --> Microarchitecture + ISA --> Assembly --> C --> Go / C#
 - 📫 Email me at anisharma2103@gmail.com if you're interested in collaborating or discussing cool topics!
 
 ### 🛠 Technologies
@@ -32,9 +32,9 @@
 
 | Language    | Experience | Lines of Code (LOC) |
 |-------------|------------|---------------------|
-| C#          | 1 year     | ~3000               |
+| C#          | 1 year     | ~3500               |
 | TypeScript  | 6 months   | ~2000               |
-| Go          | 1 month    | ~2500               |
+| Go          | 1 month    | ~3500               |
 | Python      | 4 years    | ~7500               |
 | JavaScript  | 2 years    | ~5000               |
 | C           | 2 months   | ~2500               |
