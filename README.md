@@ -12,12 +12,11 @@
 ### 🛠 Technologies
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)\
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)\
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)\
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)\
@@ -34,9 +33,9 @@
 
 | Language    | Experience | Lines of Code (LOC) |
 |-------------|------------|---------------------|
-| C#          | 1 year     | ~5000               |
+| C#          | 1 year     | ~6000               |
 | TypeScript  | 6 months   | ~2500               |
-| Go          | 1 month    | ~3500               |
+| Go          | 1 month    | ~4000               |
 | Python      | 4 years    | ~7500               |
 | JavaScript  | 2 years    | ~5000               |
 | C           | 2 months   | ~2500               |
