@@ -1,10 +1,12 @@
 ## 👋 Hey there! I'm Anish
 
 ### 👨🏻‍💻 About Me
-- 🎓 I'm currently completing my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney. I've completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Associate Backend Developer, working in C# and .NET Web API development
-- 🏗️ Current work in Go programming - learning the language, working on small projects with the end goal => network programming + concurrency
-- 🛠️ Recent major project: Implementing a [Memory Manager](https://github.com/anishsharma21/Assembly-Projects/blob/main/MIPS_asm%20(main)/malloc_free.s) in MIPS assembly
-- 🌱 Learning path: returning to first principles by covering Digital Logic --> Microarchitecture + ISA --> Assembly --> C --> Go / C#
+- 🎓 I've completed my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney in 2024. I've also completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Associate Backend Developer, working in C# and .NET Web API development. I've also been involved in front-end development in a micro frontend suite of React repositories for Ansarada's client-facing products.
+- 🏗️ Side-work: Go programming - learning the language, working on small projects with the end goal of gaining proficiency in network programming + concurrency
+- 🛠️ Recent projects:
+  - Implementing a concurrent [TCP chat server/client](https://github.com/anishsharma21/Golang-Networking/tree/main/projects/intermediate_chatserver) with a custom protocol and authentication in Go
+  - Implementing a [Memory Manager](https://github.com/anishsharma21/Assembly-Projects/blob/main/MIPS_asm%20(main)/malloc_free.s) in MIPS assembly
+- 🌱 My learning journey for the last 6 months: returning to first principles by covering ~Digital Logic~ --> ~Microarchitecture + ISA~ --> ~Assembly~ --> ~C~ --> Go / C#
 - 📫 Email me at anisharma2103@gmail.com if you're interested in collaborating or discussing cool topics!
 
 ### 🛠 Technologies
