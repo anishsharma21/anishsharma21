@@ -1,9 +1,10 @@
 ## 👋 Hey there! I'm Anish
 
 ### 👨🏻‍💻 About Me
-- 🎓 I've completed my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney in 2024. I've also completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Associate Backend Developer, working in C# and .NET Web API development. I've also been involved in front-end development in a micro frontend suite of React repositories for Ansarada's client-facing products.
-- 🏗️ Side-work: Go programming - learning the language, working on small projects with the end goal of gaining proficiency in network programming + concurrency
+- 🎓 I've completed my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney in 2024. I've also completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Associate Backend Developer with C# and .NET Web API development, but have been moderately involved in front-end development which includes working in a micro-frontend suite of React repositories for Ansarada's client-facing products. TypeScript and React are the main technologies used for my frontend work.
+- 🏗️ Side-work: Go programming - learning the language, working on small projects with the end goal of gaining proficiency in network programming + concurrency + web dev
 - 🛠️ Recent projects:
+  - Creating a [Go Backend Starter Template](https://github.com/anishsharma21/go-backend-starter-template) with Postgres, Docker, Air (HMR), Goose (DB migrations) and JWT authentication of endpoints
   - Implementing a concurrent [TCP chat server/client](https://github.com/anishsharma21/Golang-Networking/tree/main/projects/intermediate_chatserver) with a custom protocol and authentication in Go
   - Implementing a [Memory Manager](https://github.com/anishsharma21/Assembly-Projects/blob/main/MIPS_asm%20(main)/malloc_free.s) in MIPS assembly
 - 🌱 My learning journey for the last 6 months: returning to first principles by covering ~Digital Logic~ --> ~Microarchitecture + ISA~ --> ~Assembly~ --> ~C~ --> Go / C#
@@ -29,13 +30,13 @@
 
 <!-- https://github.com/inttter/md-badges -->
 
-### 📊 Experience (updated 23/11/24)
+### 📊 Experience (updated 16/2/24)
 
 | Language    | Experience | Lines of Code (LOC) |
 |-------------|------------|---------------------|
 | C#          | 1 year     | ~8000               |
-| TypeScript  | 6 months   | ~10,000             |
-| Go          | 3 months   | ~7000               |
+| TypeScript  | 6 months   | ~11,000             |
+| Go          | 3 months   | ~8000               |
 | Python      | 4 years    | ~7500               |
 | JavaScript  | 2 years    | ~5000               |
 | C           | 2 months   | ~2500               |
