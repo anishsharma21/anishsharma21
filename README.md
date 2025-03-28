@@ -38,9 +38,9 @@
 
 | Language    | Experience | Lines of Code (LOC) |
 |-------------|------------|---------------------|
-| C#          | 1 year     | ~8000               |
-| TypeScript  | 9 months   | ~12,000             |
-| Go          | 6 months   | ~8000               |
+| C#          | 1 year     | ~10k                |
+| TypeScript  | 9 months   | ~12k                |
+| Go          | 6 months   | ~10k                |
 | Python      | 4 years    | ~7500               |
 | JavaScript  | 2 years    | ~5000               |
 | C           | 2 months   | ~2500               |
