@@ -34,17 +34,17 @@
 
 <!-- https://github.com/inttter/md-badges -->
 
-### 📊 Experience (updated 16/2/24)
+### 📊 Experience (last updated 5/5/25)
 
 | Language    | Experience | Lines of Code (LOC) |
 |-------------|------------|---------------------|
-| C#          | 1 year     | ~10k                |
-| TypeScript  | 9 months   | ~12k                |
-| Go          | 6 months   | ~10k                |
-| Python      | 4 years    | ~7500               |
-| JavaScript  | 2 years    | ~5000               |
-| C           | 2 months   | ~2500               |
-| ASM (MIPS)  | 2 months   | ~4000               |
+| C#          | 1 year     | ~12k                |
+| TypeScript  | 1 year     | ~15k                |
+| Go          | 9 months   | ~10k                |
+| Python      | 4 years    | ~9k                 |
+| JavaScript  | 2 years    | ~6k                 |
+| C           | 2 months   | ~2.5k               |
+| ASM (MIPS)  | 2 months   | ~4k                 |
 
 ### 🤝🏻 Connect with Me
 
