@@ -1,7 +1,7 @@
 ## 👋 Hey there! I'm Anish
 
 ### 👨🏻‍💻 About Me
-- 🎓 I've completed my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney in 2024. I've also completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Associate Backend Developer with C# and .NET Web API development, but have been moderately involved in front-end development which includes working in a micro-frontend suite of React repositories for Ansarada's client-facing products. TypeScript and React are the main technologies used for my frontend work.
+- 🎓 I've completed my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney in 2024. I've also completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Fullstack Develoepr with C# and .NET Web API development, and TypeScript + React.
 - 🏗️ Side-work: Go programming - learning the language, working on small projects with the end goal of gaining proficiency in network programming + concurrency + web dev
 - 🛠️ Recent projects:
   - Creating a [Go Backend Starter Template](https://github.com/anishsharma21/go-backend-starter-template) with Postgres, Docker, Air (HMR), Goose (DB migrations) and JWT authentication of endpoints
