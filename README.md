@@ -1,12 +1,12 @@
 ## 👋 Hey there! I'm Anish
 
 ### 👨🏻‍💻 About Me
-- 🎓 I've completed my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney in 2024. I've also completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I now work at Ansarada as an Fullstack Develoepr with C# and .NET Web API development, and TypeScript + React.
+- 🎓 I've completed my Bachelor of Information Technology Co-op Scholarship at the University of Technology Sydney in 2024. I've also completed 2 internships - the first as a Junior Data Scientist at Origin Energy, and the second as a Junior Software Engineer and AI Engineer at Ansarada. I worked at Ansarada as an Fullstack Develoepr with C# and .NET Web API development, and TypeScript + React, eventually leading the team just a year in on major feature releases. Then, I quit my corporate job and joined the team at [Fastlane](https://www.usefastlane.ai/), initially as a founding engineer, and then moved into the role as CTO and Co-founder.
 - 🏗️ Side-work: Go programming - learning the language, working on small projects with the end goal of gaining proficiency in network programming + concurrency + web dev
-- 🛠️ Recent projects:
+- 🛠️ Recent projects (before going all in on Fastlane):
+  - Implementing a [Memory Manager](https://github.com/anishsharma21/Assembly-Projects/blob/main/MIPS_asm%20(main)/malloc_free.s) in MIPS assembly
   - Creating a [Go Backend Starter Template](https://github.com/anishsharma21/go-backend-starter-template) with Postgres, Docker, Air (HMR), Goose (DB migrations) and JWT authentication of endpoints
   - Implementing a concurrent [TCP chat server/client](https://github.com/anishsharma21/Golang-Networking/tree/main/projects/intermediate_chatserver) with a custom protocol and authentication in Go
-  - Implementing a [Memory Manager](https://github.com/anishsharma21/Assembly-Projects/blob/main/MIPS_asm%20(main)/malloc_free.s) in MIPS assembly
 - 🌱 My learning journey for the last 6 months: returning to first principles by covering ~Digital Logic~ --> ~Microarchitecture + ISA~ --> ~Assembly~ --> ~C~ --> Go / C#
 - 📫 Email me at anisharma2103@gmail.com if you're interested in collaborating or discussing cool topics!
 
